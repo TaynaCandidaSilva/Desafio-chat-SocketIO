@@ -1,5 +1,6 @@
 {
     "files.exclude": {
-        "**/desafio-chat-socketio": true
+        "**/desafio-chat-socketio": true,
+        "**/.gitignore": true
     }
 }
